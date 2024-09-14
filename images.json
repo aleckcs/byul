@@ -245,59 +245,6 @@
         }
     },
     {
-        "title": "Super-Earth Exoplanet 55 Cancri e (MIRI Secondary Eclipse Light Curve)",
-        "image_url": "https://stsci-opo.org/STScI-01HWQSZWPR8FHJCD53Y7P0W16K.jpg",
-        "caption": "This light curve shows the change in brightness of the 55 Cancri system as the rocky planet 55 Cancri e, the closest of the five known planets in the system, moves behind the star. This phenomenon is known a secondary eclipse.",
-        "release_date": "",
-        "facts": {
-            "Object Name": "Planet: 55 Cancri e, also called Janssen; Star: 55 Cancri, also called Rho-1 Cancri, Copernicus",
-            "Object Description": "Super-Earth Exoplanet orbiting a K-Star",
-            "R.A. Position": "08h52m35.24s",
-            "Dec. Position": "+28d19m47.34s",
-            "Constellation": "Cancer",
-            "Distance": "41 light-years",
-            "Data Description": "MIRI low-resolution time-series spectroscopy (5-12 microns)",
-            "Filters": "None",
-            "Instrument": "MIRI",
-            "Exposure Dates": "March 24, 2023"
-        }
-    },
-    {
-        "title": "Super-Earth Exoplanet 55 Cancri e (NIRCam + MIRI Emission Spectrum)",
-        "image_url": "https://stsci-opo.org/STScI-01HWQT28H3Z3P7VQ4AD5E7P8NW.jpg",
-        "caption": "A thermal emission spectrum captured by Webb\u2019s NIRCam (Near-Infrared Camera) in November 2022, and MIRI (Mid-Infrared Instrument) in March 2023, shows the brightness (y-axis) of different wavelengths of infrared light (x-axis) emitted by the super-Earth exoplanet 55 Cancri e. The spectrum shows that the planet may be surrounded by an atmosphere rich in carbon dioxide or carbon monoxide and other volatiles, not just vaporized rock.",
-        "release_date": "",
-        "facts": {
-            "Object Name": "Planet: 55 Cancri e, also called Janssen; Star: 55 Cancri, also called Rho-1 Cancri, Copernicus",
-            "Object Description": "Super-Earth Exoplanet orbiting a K-Star",
-            "R.A. Position": "08h52m35.24s",
-            "Dec. Position": "+28d19m47.34s",
-            "Constellation": "Cancer",
-            "Distance": "41 light-years",
-            "Data Description": "NIRCam grism time-series spectroscopy (F444W); MIRI low-resolution time-series spectroscopy (5-12 microns)",
-            "Filters": "None",
-            "Instrument": "NIRCam and MIRI",
-            "Exposure Dates": "NIRCam: November 24, 2022\nMIRI: March 24, 2023"
-        }
-    },
-    {
-        "title": "Hot Gas-Giant Exoplanet WASP-43 b (MIRI Phase Curve)",
-        "image_url": "https://stsci-opo.org/STScI-01HW67RF7NV3B8HKNXDP33YSES.png",
-        "caption": "This light curve shows the change in brightness of the WASP-43 system over time as the planet orbits the star. This type of light curve is known as a phase curve because it includes the entire orbit, or all phases of the planet.",
-        "release_date": "",
-        "facts": {
-            "Object Name": "WASP-43 b",
-            "Object Description": "Hot Jupiter Exoplanet",
-            "R.A. Position": "10:19:37.96",
-            "Dec. Position": "-09:48:23.20",
-            "Constellation": "Sextans",
-            "Distance": "280 light-years (87 parsecs)",
-            "Filters": "None",
-            "Instrument": "MIRI",
-            "Exposure Dates": "November 30 \u2013 December 2, 2022"
-        }
-    },
-    {
         "title": "Digel Cloud 2S",
         "image_url": "https://stsci-opo.org/STScI-01J5NSEJTP6AWGVE845JMY21KT.png",
         "caption": "NASA\u2019s James Webb Space Telescope observed the outskirts of our Milky Way galaxy. Known as the Extreme Outer Galaxy, this region is located more than 58,000 light-years from the Galactic Center.",
@@ -376,25 +323,6 @@
             "Exposure Dates": "20-21 Dec 2022, 24 Dec 2022",
             "Filters": "F115W, F150W, F200W, F277W, F356W, F444W",
             "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam instrument. Several filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are: \u00a0\nBlue: F115W+F150W\nGreen: F200W + F277W\nRed: F356W + F444W"
-        }
-    },
-    {
-        "title": "Epsilon Indi Ab Exoplanet (MIRI Image)",
-        "image_url": "https://stsci-opo.org/STScI-01J09EC4V6EKK95KF9YJ84KVBE.png",
-        "caption": "This image of the gas-giant exoplanet Epsilon Indi Ab was taken with the coronagraph on NASA\u2019s James Webb Space Telescope\u2019s MIRI (Mid-Infrared Instrument). A star symbol marks the location of the host star Epsilon Indi A, whose light has been blocked by the coronagraph, resulting in the dark circle marked with a dashed white line. Epsilon Indi Ab is one of the coldest exoplanets ever directly imaged. Light at 10.6 microns was assigned the color blue, while light at 15.5 microns was assigned the color orange. MIRI did not resolve the planet, which is a point source.",
-        "release_date": "",
-        "facts": {
-            "Object Name": "Eps Ind A; HD209100; HIP108870",
-            "Object Description": "Exoplanet",
-            "R.A. Position": "22:03:21.65",
-            "Dec. Position": "-56:47:09.52",
-            "Constellation": "Indus",
-            "Distance": "12 light-years",
-            "Data Description": "This image was created with Webb data from proposal: 2243 (E. Matthews)",
-            "Instrument": "MIRI",
-            "Exposure Dates": "03 July 2023",
-            "Filters": "F1065C; F1550C",
-            "Color Info": "These images are a composite of separate exposures acquired by the James Webb Space Telescope using the MIRI instrument with a coronagraph. Two filters were used to sample wide wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter. In this case, the assigned colors are:\u00a0 Cyan: F1065C Orange: F1550C"
         }
     },
     {
@@ -540,76 +468,6 @@
             "Filters": "NIRCam: F480M; MIRI: F1800W, F2100W",
             "Color Info": "This image is a composite of separate exposures acquired by the James Webb Space Telescope using the NIRCam and MIRI instruments. Several filters were used to sample specific wavelength ranges. The color results from assigning different hues (colors) to each monochromatic (grayscale) image associated with an individual filter or images derived from mathematical combinations of filters. In this case, the assigned colors are: \u00a0Blue: Synchrotron (F480M), \u00a0Green: Sulfur (derived from F1800W and F2100W) Magenta: Dust (derived from F1800W and F2100W)",
             "Compass and Scale Image": ""
-        }
-    },
-    {
-        "title": "Super-Earth Exoplanet 55 Cancri e (MIRI Secondary Eclipse Light Curve)",
-        "image_url": "https://stsci-opo.org/STScI-01HWQSZWPR8FHJCD53Y7P0W16K.jpg",
-        "caption": "This light curve shows the change in brightness of the 55 Cancri system as the rocky planet 55 Cancri e, the closest of the five known planets in the system, moves behind the star. This phenomenon is known a secondary eclipse.",
-        "release_date": "",
-        "facts": {
-            "Object Name": "Planet: 55 Cancri e, also called Janssen; Star: 55 Cancri, also called Rho-1 Cancri, Copernicus",
-            "Object Description": "Super-Earth Exoplanet orbiting a K-Star",
-            "R.A. Position": "08h52m35.24s",
-            "Dec. Position": "+28d19m47.34s",
-            "Constellation": "Cancer",
-            "Distance": "41 light-years",
-            "Data Description": "MIRI low-resolution time-series spectroscopy (5-12 microns)",
-            "Filters": "None",
-            "Instrument": "MIRI",
-            "Exposure Dates": "March 24, 2023"
-        }
-    },
-    {
-        "title": "Super-Earth Exoplanet 55 Cancri e (NIRCam + MIRI Emission Spectrum)",
-        "image_url": "https://stsci-opo.org/STScI-01HWQT28H3Z3P7VQ4AD5E7P8NW.jpg",
-        "caption": "A thermal emission spectrum captured by Webb\u2019s NIRCam (Near-Infrared Camera) in November 2022, and MIRI (Mid-Infrared Instrument) in March 2023, shows the brightness (y-axis) of different wavelengths of infrared light (x-axis) emitted by the super-Earth exoplanet 55 Cancri e. The spectrum shows that the planet may be surrounded by an atmosphere rich in carbon dioxide or carbon monoxide and other volatiles, not just vaporized rock.",
-        "release_date": "",
-        "facts": {
-            "Object Name": "Planet: 55 Cancri e, also called Janssen; Star: 55 Cancri, also called Rho-1 Cancri, Copernicus",
-            "Object Description": "Super-Earth Exoplanet orbiting a K-Star",
-            "R.A. Position": "08h52m35.24s",
-            "Dec. Position": "+28d19m47.34s",
-            "Constellation": "Cancer",
-            "Distance": "41 light-years",
-            "Data Description": "NIRCam grism time-series spectroscopy (F444W); MIRI low-resolution time-series spectroscopy (5-12 microns)",
-            "Filters": "None",
-            "Instrument": "NIRCam and MIRI",
-            "Exposure Dates": "NIRCam: November 24, 2022\nMIRI: March 24, 2023"
-        }
-    },
-    {
-        "title": "Hot Gas-Giant Exoplanet WASP-43 b (MIRI Phase Curve)",
-        "image_url": "https://stsci-opo.org/STScI-01HW67RF7NV3B8HKNXDP33YSES.png",
-        "caption": "This light curve shows the change in brightness of the WASP-43 system over time as the planet orbits the star. This type of light curve is known as a phase curve because it includes the entire orbit, or all phases of the planet.",
-        "release_date": "",
-        "facts": {
-            "Object Name": "WASP-43 b",
-            "Object Description": "Hot Jupiter Exoplanet",
-            "R.A. Position": "10:19:37.96",
-            "Dec. Position": "-09:48:23.20",
-            "Constellation": "Sextans",
-            "Distance": "280 light-years (87 parsecs)",
-            "Filters": "None",
-            "Instrument": "MIRI",
-            "Exposure Dates": "November 30 \u2013 December 2, 2022"
-        }
-    },
-    {
-        "title": "Hot Gas-Giant Exoplanet WASP-43 b (Temperature Maps)",
-        "image_url": "https://stsci-opo.org/STScI-01HW67WBW9KFBZF27BVFJVNZ79.png",
-        "caption": "This set of maps shows the temperature of the visible side of the hot gas-giant exoplanet WASP-43 b, as the planet orbits its star.",
-        "release_date": "",
-        "facts": {
-            "Object Name": "WASP-43 b",
-            "Object Description": "Hot Jupiter Exoplanet",
-            "R.A. Position": "10:19:37.96",
-            "Dec. Position": "-09:48:23.20",
-            "Constellation": "Sextans",
-            "Distance": "280 light-years (87 parsecs)",
-            "Filters": "None",
-            "Instrument": "MIRI",
-            "Exposure Dates": "November 30 \u2013 December 2, 2022"
         }
     },
     {
